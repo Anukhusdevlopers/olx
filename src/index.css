@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media(min-height:1300px){
+    .loadingpage{
+        flex-direction: column;
+    }
+}
